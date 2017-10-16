@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1507271258 source:c:\users\johnny\desktop\c++\demo\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1507270820 source:c:\users\johnny\desktop\c++\demo\src\demo1.cpp
+	"demo1.h"
+
+1507270820 c:\users\johnny\desktop\c++\demo\include\demo1.h
+
+1507300253 source:c:\users\johnny\desktop\c++\demo\test1.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+

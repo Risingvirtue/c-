@@ -98,7 +98,7 @@ int peek(struct node* currNode) {
     return currNode->body;
 }
 
-array* toArray(struct node* currNode) {
+int* toArray(struct node* currNode) {
     int numElle;
     numElle = size(currNode);
     int n[numElle];
@@ -108,7 +108,8 @@ array* toArray(struct node* currNode) {
         n[i] = currNode->body;
         currNode = currNode->next;
     }
-    return &n;
+    int* pointer = &n;
+    return pointer;
 
 }
 int main() {

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508472259 source:c:\users\johnny\desktop\c++\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -70,7 +70,8 @@ int main() {
     //printTree(binarySearch);
 
     insert(&binarySearch, 6);
-    //printf("%d\n", binarySearch->value);
+
+    printf("%d\n", binarySearch->value);
     printTree(binarySearch);
 
     return 0;
